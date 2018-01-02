@@ -1,2 +1,0 @@
-# getlimo
-limo demo
